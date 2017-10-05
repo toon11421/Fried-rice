@@ -10,4 +10,7 @@ def subtraction(n1, n2):
 def summation(n1, n2):
 	return n1 + n2
 
+def test():
+	print("U league champion")
+
 cal(int(input()), int(input()))
