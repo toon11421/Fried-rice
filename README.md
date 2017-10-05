@@ -11,6 +11,9 @@ def summation(n1, n2):
 	return n1 + n2
 
 def test():
+	print("U league champion")
+
+def test():
 	print("Golden State Warriors")
 
 cal(int(input()), int(input()))
